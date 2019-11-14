@@ -1,0 +1,4 @@
+
+ Contact < ApplicationRecord
+ 
+end
